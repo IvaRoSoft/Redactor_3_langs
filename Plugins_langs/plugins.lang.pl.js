@@ -12,14 +12,14 @@ $R.addLang('pl', {
 	"choose": "Wybierz",
 // fontcolor
 	"fontcolor": "Kolor tekstu",
-  "text": "Tekst",
-  "highlight": "Kolor tła",
+        "text": "Tekst",
+        "highlight": "Kolor tła",
 // fontfamily
 	"fontfamily": "Czcionki",
-  "remove-font-family":  "Usuń rodzinę czcionek",
+        "remove-font-family":  "Usuń rodzinę czcionek",
 // fontsize
 	"size": "Rozmiar",
-  "remove-size":  "Usuń rozmiar czcionki",
+        "remove-size":  "Usuń rozmiar czcionki",
 // fullscreen
 	"fullscreen": "Pełny ekran",
 // imagemanager
@@ -48,12 +48,12 @@ $R.addLang('pl', {
 	"right-to-left": "Od prawej do lewej",
 // variable
 	"change": "Zmieniać",
-  "variable": "Zmienna",
-  "variable-select": "Proszę wybrać zmienną",	
+        "variable": "Zmienna",
+        "variable-select": "Proszę wybrać zmienną",	
 // video	
 	"video": "Wideo",
-  "video-html-code": "Kod do umieszczenia filmu lub link do Youtube/Vimeo",
+        "video-html-code": "Kod do umieszczenia filmu lub link do Youtube/Vimeo",
 // widget
 	"widget": "Widżet",
-  "widget-html-code": "Kod HTML widżetu"
+        "widget-html-code": "Kod HTML widżetu"
 });
