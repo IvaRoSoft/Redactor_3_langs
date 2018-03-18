@@ -12,14 +12,14 @@ $R.addLang('hu', {
 	"choose": "Válassz",
 // fontcolor
 	"fontcolor": "Szöveg szine",
-  "text": "Szöveg",
-  "highlight": "Szöveg hátterének szine",
+        "text": "Szöveg",
+        "highlight": "Szöveg hátterének szine",
 // fontfamily
 	"fontfamily": "Betűtípusok",
-  "remove-font-family":  "Betűtípusok eltávolítása",
+        "remove-font-family":  "Betűtípusok eltávolítása",
 // fontsize
 	"size": "Betűméret",
-  "remove-size":  "A betűméret eltávolítása",
+        "remove-size":  "A betűméret eltávolítása",
 // fullscreen
 	"fullscreen": "Teljes képernyős",
 // imagemanager
@@ -48,12 +48,12 @@ $R.addLang('hu', {
 	"right-to-left": "Jobbról balra",
 // variable
 	"change": "Változás",
-  "variable": "Változó",
-  "variable-select": "Kérjük, válasszon ki egy változót",	
+        "variable": "Változó",
+        "variable-select": "Kérjük, válasszon ki egy változót",	
 // video	
 	"video": "Videó",
-  "video-html-code": "Video kód beillesztése vagy Youtube/Vimeo link",
+        "video-html-code": "Video kód beillesztése vagy Youtube/Vimeo link",
 // widget
 	"widget": "Widget",
-  "widget-html-code": "Widget HTML kód"
+        "widget-html-code": "Widget HTML kód"
 });
