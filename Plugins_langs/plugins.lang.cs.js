@@ -11,15 +11,15 @@ $R.addLang('cs', {
 // filemanager
 	"choose": "Vybrat",
 // fontcolor
-	"fontcolor": "Barva písma",
-  "text": "Text",
-  "highlight": "Barva pozadí",
+        "fontcolor": "Barva písma",
+        "text": "Text",
+        "highlight": "Barva pozadí",
 // fontfamily
 	"fontfamily": "Písma",
-  "remove-font-family":  "Odstranit format písma",
+        "remove-font-family":  "Odstranit format písma",
 // fontsize
 	"size": "Velikost",
-  "remove-size":  "Odebrat velikost písma",
+        "remove-size":  "Odebrat velikost písma",
 // fullscreen
 	"fullscreen": "Celá obrazovka",
 // imagemanager
@@ -48,12 +48,12 @@ $R.addLang('cs', {
 	"right-to-left": "Zprava doleva",
 // variable
 	"change": "Přeměna",
-  "variable": "Proměnná",
-  "variable-select": "Prosím, vyberte proměnnou",	
+        "variable": "Proměnná",
+        "variable-select": "Prosím, vyberte proměnnou",	
 // video	
 	"video": "Video",
-  "video-html-code": "Kód pro vložení videa nebo odkaz Youtube/Vimeo",
+        "video-html-code": "Kód pro vložení videa nebo odkaz Youtube/Vimeo",
 // widget
 	"widget": "Widget",
-  "widget-html-code": "Widget kód HTML"
+        "widget-html-code": "Widget kód HTML"
 });
