@@ -9,14 +9,14 @@
 		"italic": "Kurzíva",
 		"deleted": "Přeškrtnuté",
 		"underline": "Podtržené",
-	    "superscript": "Horní index",
-	    "subscript": "Dolní index",
+	        "superscript": "Horní index",
+	        "subscript": "Dolní index",
 		"bold-abbr": "B",
 		"italic-abbr": "I",
 		"deleted-abbr": "S",
 		"underline-abbr": "U",
-	    "superscript-abbr": "Sup",
-	    "subscript-abbr": "Sub",
+	        "superscript-abbr": "Sup",
+	        "subscript-abbr": "Sub",
 		"lists": "Seznamy",
 		"link_insert": "Vložit odkaz ...",
 		"link_edit": "Upravit odkaz",
@@ -46,7 +46,7 @@
 		"outdent": "Zmenšit odsazení",
 		"indent": "Zvětšit odsazení",
 		"horizontalrule": "Vodorovná čára",
-	    "upload": "Nahrát", 
+	        "upload": "Nahrát", 
 		"upload-label": "Přesuňte sem soubory nebo klikněte pro výběr",  
 		"accessibility-help-label": "Rich textový editor",  
 		"caption": "Titulok",
@@ -57,7 +57,7 @@
 		"left": "Vlevo",
 		"right": "Vpravo",  
 		"center": "Center",
-	    "undo": "Zpět",
-	    "redo": "Obnovit" 
+	        "undo": "Zpět",
+	        "redo": "Obnovit" 
 	};
 })(jQuery);
