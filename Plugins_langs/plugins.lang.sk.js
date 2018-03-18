@@ -12,14 +12,14 @@ $R.addLang('sk', {
 	"choose": "Vybrať",
 // fontcolor
 	"fontcolor": "Farba písma",
-  "text": "Text",
-  "highlight": "Farba pozadia",
+        "text": "Text",
+        "highlight": "Farba pozadia",
 // fontfamily
 	"fontfamily": "Písma",
-  "remove-font-family":  "Odstrániť formátovanie písma",
+        "remove-font-family":  "Odstrániť formátovanie písma",
 // fontsize
 	"size": "Veľkosť",
-  "remove-size":  "Odstrániť veľkosť písma",
+        "remove-size":  "Odstrániť veľkosť písma",
 // fullscreen
 	"fullscreen": "Celá obrazovka",
 // imagemanager
@@ -48,12 +48,12 @@ $R.addLang('sk', {
 	"right-to-left": "Zprava doľava",
 // variable
 	"change": "Premenná",
-  "variable": "Premenné",
-  "variable-select": "Vyberte premennú",	
+        "variable": "Premenné",
+        "variable-select": "Vyberte premennú",	
 // video	
 	"video": "Video",
-  "video-html-code": "Kód vloženia videa alebo odkaz Youtube/Vimeo",
+        "video-html-code": "Kód vloženia videa alebo odkaz Youtube/Vimeo",
 // widget
 	"widget": "Widget",
-  "widget-html-code": "Widget kód HTML"
+        "widget-html-code": "Widget kód HTML"
 });
