@@ -29,7 +29,7 @@ $R.addLang('cs', {
 // properties
 	"properties": "Vlastnosti",
 // specialchars
-	"specialchars": "peciální znaky",
+	"specialchars": "Speciální znaky",
 // table
 	"table": "Tabulka",
 	"insert-table": "Vložit tabulku",
