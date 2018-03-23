@@ -5,4 +5,4 @@ Redactor 3 langs en, sk, cs, pl, hu, nl
 
 Language translation for PulseCMS
 
-Submitted translation: EN, DE, JA, CA, CS, HU, PL, RO, NL
+Submitted translation: EN, DE, JA, SK, CS, HU, PL, RO, NL
